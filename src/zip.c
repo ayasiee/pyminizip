@@ -63,7 +63,7 @@
 
 #ifndef NOCRYPT
 #define INCLUDECRYPTINGCODE_IFCRYPTALLOWED
-#include "crypt.h"
+#include "crypt_minizip.h"
 #endif
 
 #ifndef local

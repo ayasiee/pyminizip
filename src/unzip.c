@@ -97,7 +97,7 @@
 #include "aes/fileenc.h"
 #endif
 #ifndef NOUNCRYPT
-#include "crypt.h"
+#include "crypt_minizip.h"
 #endif
 
 #ifndef local
